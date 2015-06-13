@@ -168,3 +168,12 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.l8-ajuste-botao {
+    padding-right: 17px;
+}
+
+.l8-ajuste-botao-face {
+    padding-left: 11px;
+    padding-right: 17px;
+}
