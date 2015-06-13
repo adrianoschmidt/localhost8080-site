@@ -177,3 +177,11 @@ p.copyright {
     padding-left: 11px;
     padding-right: 17px;
 }
+
+.l8-link-branco {
+    color: white;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+.l8-link-branco:focus, .l8-link-branco:hover {
+  color: white;
